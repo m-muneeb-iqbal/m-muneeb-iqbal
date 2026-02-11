@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h2>
+f<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h2>
 
 <div id="header" align="center">
 
@@ -26,7 +26,7 @@
   </div>
 
   <br>
-  <img src="https://komarev.com/ghpvc/?username=muneebiq3&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=m-muneeb-iqbal&style=flat-square&color=blue" alt=""/>
 
 </div>
 
@@ -95,29 +95,29 @@
 
 ## 🔝 **Top Repo**
 
-<a href="https://github.com/muneebiq3/Finance-Manager">
-  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebiq3&repo=Finance-Manager&theme=dark&cache_seconds=0" alt="Application Development" />
+<a href="https://github.com/m-muneeb-iqbal/Finance-Manager">
+  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=m-muneeb-iqbal&repo=Finance-Manager&theme=dark&cache_seconds=0" alt="Application Development" />
 </a>
 
 <p align="left">
-  <a href="https://github.com/muneebiq3?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-79ff97?style=for-the-badge&logo=koding&logoColor=0d1117"/></a>
+  <a href="https://github.com/m-muneeb-iqbal?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-79ff97?style=for-the-badge&logo=koding&logoColor=0d1117"/></a>
 </p>
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> **Github Stats**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
   <div style="flex: 1; min-width: 45%; margin: 10px;">
-    <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muneebiq3&theme=dark" />
+    <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-muneeb-iqbal&theme=dark" />
   </div>
   <div style="flex: 1; min-width: 45%; margin: 10px;">
-    <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebiq3&layout=compact&theme=dark" />
+    <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-muneeb-iqbal&layout=compact&theme=dark" />
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
   <div style="flex: 1; min-width: 48%;">
-    <a href="https://github.com/muneebiq3">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muneebiq3&theme=dark" alt="Muneeb Iqbal's GitHub Profile" style="border-radius: 10px; margin-bottom: 5px; width: 100%; height: auto;" />
+    <a href="https://github.com/m-muneeb-iqbal">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-muneeb-iqbal&theme=dark" alt="Muneeb Iqbal's GitHub Profile" style="border-radius: 10px; margin-bottom: 5px; width: 100%; height: auto;" />
     </a>
   </div>
 </div>
