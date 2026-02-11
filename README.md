@@ -73,11 +73,13 @@
 
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7E4C3C?style=flat&logo=openstreetmap&logoColor=white&labelColor=7E4C3C)
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
+![WebRTC](https://img.shields.io/badge/WebRTC-F47C2C?style=flat&logo=webrtc&logoColor=white&labelColor=F47C2C&color=F47C2C)
 
 📚 **Libraries** <br>
 ![React](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white&labelColor=007ACC&color=007ACC)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF8C00?style=flat&logo=python&logoColor=white&labelColor=FF8C00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white&labelColor=010101&color=010101)
 
 🌐 **Frameworks** <br>
 
