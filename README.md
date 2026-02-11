@@ -75,7 +75,7 @@ f<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
 
 📚 **Libraries** <br>
-![React](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB)
+![React](https://img.shields.io/badge/React-5C3D6B?style=flat&logo=react&logoColor=white&labelColor=5C3D6B)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF8C00?style=flat&logo=python&logoColor=white&labelColor=FF8C00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
 
