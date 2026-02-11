@@ -75,14 +75,14 @@ f<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=flat&logo=stripe&logoColor=white&labelColor=6772E5)
 
 📚 **Libraries** <br>
-![React](https://img.shields.io/badge/React-5C3D6B?style=flat&logo=react&logoColor=white&labelColor=5C3D6B)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FF8C00?style=flat&logo=python&logoColor=white&labelColor=FF8C00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white&labelColor=5C3D6B)
 
 🌐 **Frameworks** <br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=02569B)
-![Node](https://img.shields.io/badge/Node-white?style=flat&logo=express&logoColor=000000&labelColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933)
 ![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=000000&labelColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white&labelColor=4FC08D)
