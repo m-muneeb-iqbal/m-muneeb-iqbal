@@ -95,10 +95,7 @@ f<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&labelColor=FFCB2B)
 
 ## 🔝 **Top Repo**
-
-<a href="https://github.com/m-muneeb-iqbal/Finance-Manager">
-  <img style="border-radius: 5px; margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=m-muneeb-iqbal&repo=Finance-Manager&theme=dark&cache_seconds=0" alt="Application Development" />
-</a>
+[![Top Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=m-muneeb-iqbal&repo=finance-manager)](https://github.com/m-muneeb-iqbal/github-readme-stats-fast)
 
 <p align="left">
   <a href="https://github.com/m-muneeb-iqbal?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-79ff97?style=for-the-badge&logo=koding&logoColor=0d1117"/></a>
