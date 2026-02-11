@@ -1,4 +1,4 @@
-f<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h2>
 
 <div id="header" align="center">
 
@@ -95,7 +95,7 @@ f<h2 align='center'><samp><strong>Hi there, I am Muneeb Iqbal</strong></samp></h
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&labelColor=FFCB2B)
 
 ## 🔝 **Top Repo**
-[![Top Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=m-muneeb-iqbal&repo=finance-manager)](https://github.com/m-muneeb-iqbal/github-readme-stats-fast)
+[![Top Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=m-muneeb-iqbal&repo=finance-manager&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m-muneeb-iqbal/Finance-Manager)
 
 <p align="left">
   <a href="https://github.com/m-muneeb-iqbal?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-79ff97?style=for-the-badge&logo=koding&logoColor=0d1117"/></a>
