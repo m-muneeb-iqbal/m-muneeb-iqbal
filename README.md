@@ -109,9 +109,6 @@
   <div style="flex: 1; min-width: 45%; margin: 10px;">
     <img style="border-radius: 10px; margin-bottom: 5px; width: 50%; height: auto;" alt="GitHub Contribution Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-muneeb-iqbal&theme=dark" />
   </div>
-
-[![Top Repo](https://github-readme-stats-fast.vercel.app/api/streak/?username=m-muneeb-iqbal&show_icons=true&theme=dark#gh-dark-mode-only)]
-
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
