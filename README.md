@@ -10,12 +10,6 @@
     <a href="https://profile.indeed.com/p/muhammadmuneebi-h106hfz" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Indeed-white?style=for-the-badge&logo=indeed&logoColor=003A9B" alt="Indeed Badge"/>
     </a>
-    <a href="mailto:muneebiq24@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="mailto:muneebiq24@outlook.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook Badge"/>
-    </a>
     <a href="https://www.upwork.com/freelancers/~01a657d6b0a6da59ae" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
     </a>
