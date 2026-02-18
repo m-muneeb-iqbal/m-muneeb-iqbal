@@ -94,7 +94,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&labelColor=FFCB2B)
 
 ## 🔝 **Top Repo**
-[![Top Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=m-muneeb-iqbal&repo=finance-manager&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m-muneeb-iqbal/Finance-Manager)
+[![Top Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=m-muneeb-iqbal&repo=aroundyou-mern&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/m-muneeb-iqbal/AroundYOU-MERN)
 
 <p align="left">
   <a href="https://github.com/m-muneeb-iqbal?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-79ff97?style=for-the-badge&logo=koding&logoColor=0d1117"/></a>
